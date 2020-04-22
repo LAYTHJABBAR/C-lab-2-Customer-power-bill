@@ -1,0 +1,30 @@
+C:\Users\lenovo y700\source\repos\customerbill\customerbill\bin\Debug\customerbill.exe.config
+C:\Users\lenovo y700\source\repos\customerbill\customerbill\bin\Debug\customerbill.exe
+C:\Users\lenovo y700\source\repos\customerbill\customerbill\bin\Debug\customerbill.pdb
+C:\Users\lenovo y700\source\repos\customerbill\customerbill\obj\Debug\customerbill.csprojAssemblyReference.cache
+C:\Users\lenovo y700\source\repos\customerbill\customerbill\obj\Debug\customerbill.Form1.resources
+C:\Users\lenovo y700\source\repos\customerbill\customerbill\obj\Debug\customerbill.Properties.Resources.resources
+C:\Users\lenovo y700\source\repos\customerbill\customerbill\obj\Debug\customerbill.csproj.GenerateResource.cache
+C:\Users\lenovo y700\source\repos\customerbill\customerbill\obj\Debug\customerbill.csproj.CoreCompileInputs.cache
+C:\Users\lenovo y700\source\repos\customerbill\customerbill\obj\Debug\customerbill.exe
+C:\Users\lenovo y700\source\repos\customerbill\customerbill\obj\Debug\customerbill.pdb
+C:\Users\lenovo y700\Downloads\Compressed\customerbill\customerbill\bin\Debug\customerbill.exe.config
+C:\Users\lenovo y700\Downloads\Compressed\customerbill\customerbill\bin\Debug\customerbill.exe
+C:\Users\lenovo y700\Downloads\Compressed\customerbill\customerbill\bin\Debug\customerbill.pdb
+C:\Users\lenovo y700\Downloads\Compressed\customerbill\customerbill\obj\Debug\customerbill.csprojAssemblyReference.cache
+C:\Users\lenovo y700\Downloads\Compressed\customerbill\customerbill\obj\Debug\customerbill.Form1.resources
+C:\Users\lenovo y700\Downloads\Compressed\customerbill\customerbill\obj\Debug\customerbill.Properties.Resources.resources
+C:\Users\lenovo y700\Downloads\Compressed\customerbill\customerbill\obj\Debug\customerbill.csproj.GenerateResource.cache
+C:\Users\lenovo y700\Downloads\Compressed\customerbill\customerbill\obj\Debug\customerbill.csproj.CoreCompileInputs.cache
+C:\Users\lenovo y700\Downloads\Compressed\customerbill\customerbill\obj\Debug\customerbill.exe
+C:\Users\lenovo y700\Downloads\Compressed\customerbill\customerbill\obj\Debug\customerbill.pdb
+C:\Users\lenovo y700\Desktop\New folder\customerbill\customerbill\obj\Debug\customerbill.csprojAssemblyReference.cache
+C:\Users\lenovo y700\Desktop\New folder\customerbill\customerbill\obj\Debug\customerbill.Form1.resources
+C:\Users\lenovo y700\Desktop\New folder\customerbill\customerbill\obj\Debug\customerbill.Properties.Resources.resources
+C:\Users\lenovo y700\Desktop\New folder\customerbill\customerbill\obj\Debug\customerbill.csproj.GenerateResource.cache
+C:\Users\lenovo y700\Desktop\New folder\customerbill\customerbill\obj\Debug\customerbill.csproj.CoreCompileInputs.cache
+C:\Users\lenovo y700\Desktop\New folder\customerbill\customerbill\obj\Debug\customerbill.exe
+C:\Users\lenovo y700\Desktop\New folder\customerbill\customerbill\obj\Debug\customerbill.pdb
+C:\Users\lenovo y700\Desktop\New folder\customerbill\customerbill\bin\Debug\customerbill.exe.config
+C:\Users\lenovo y700\Desktop\New folder\customerbill\customerbill\bin\Debug\customerbill.exe
+C:\Users\lenovo y700\Desktop\New folder\customerbill\customerbill\bin\Debug\customerbill.pdb
